@@ -18,6 +18,6 @@ Well, i dont have the anwers yet, so let dive in 🚀
 
 ## Appendix
 
-* Extract-transform-load (ETL) processes
+* Extract-transform-load (ETL) process
 * Data cleaning
 * Exploratory data analysis (EDA) + Visualization
